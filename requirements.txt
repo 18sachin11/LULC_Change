@@ -1,4 +1,6 @@
 streamlit
 rasterio
-numpy
 matplotlib
+pandas
+numpy
+pyproj
